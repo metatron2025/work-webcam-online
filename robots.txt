@@ -10,6 +10,4 @@ Disallow: /tilda/event*
 Disallow: /*_escaped_fragment_*
 Disallow:
 
-
-Sitemap: http://work-webcam.online/sitemap.xml
-Host: work-webcam.online
+Sitemap: https://metatron2025.github.io/work-webcam-online/sitemap.xml
